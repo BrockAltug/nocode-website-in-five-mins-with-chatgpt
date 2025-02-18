@@ -1,4 +1,4 @@
-# 🚀 Create a Modern Single-Page Website with ChatGPT & Deploy to GitHub Pages in Under 5 Minutes
+# 🚀 Build a Stunning Website with AI – No Coding Needed & Live in Under 5 Minutes!
 
 ## 🏆 Overview
 
